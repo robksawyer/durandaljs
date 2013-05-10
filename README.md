@@ -1,6 +1,6 @@
 # DurandalJS [![Build Status](https://secure.travis-ci.org/robksawyer/generator-durandal.png?branch=master)](https://travis-ci.org/robksawyer/generator-durandal)
-> An attempt to make [Durandal](http://durandaljs.com/) play well with [Bower](http://http://bower.io).
- 
+> An attempt to make a cleaner [Durandal](http://durandaljs.com/) base for non-.Net users that plays well with [Bower](http://http://bower.io).
+
 Maintainer: [Rob Sawyer](https://github.com/robksawyer)
 
 ## Getting started
