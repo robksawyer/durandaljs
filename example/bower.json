@@ -1,0 +1,13 @@
+{
+  "name": "durandal-webapp",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~1.9.1",
+    "knockout": "~2.2.1",
+    "sammy": "~0.7.4",
+    "sass-bootstrap": "~2.3.1",
+    "font-awesome": "~3.0.2"
+  }
+}
